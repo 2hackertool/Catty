@@ -16,7 +16,7 @@ chmod +x *
 ruby catty.rb
 ```
 
-<h1>installation termux<h1>
+installation termux
 
 ```
 apt update && sudo apt upgrade
@@ -29,3 +29,15 @@ ruby catty.rb
 ```
 
 <h1>Screenshots 📷</h1>
+
+![Screenshot_2025-01-22_08-31-03](https://github.com/user-attachments/assets/701fea9f-958b-44c4-9878-5a501c4b8ec3)
+
+![Screenshot_2025-01-22_08-24-23](https://github.com/user-attachments/assets/b59fa752-e72a-4b6f-b33a-8776692d800c)
+
+![Screenshot_2025-01-22_08-20-57](https://github.com/user-attachments/assets/7a058565-e50a-4fb8-8ce6-98b4313110b4)
+
+![Screenshot_2025-01-22_08-21-30](https://github.com/user-attachments/assets/2437ba69-e7a9-401e-b3ff-c55315781c6d)
+
+![Screenshot_2025-01-19-16-58-40-873_com android chrome](https://github.com/user-attachments/assets/971e46af-797f-4977-a0d0-d70e346a5b8b)
+
+![Screenshot_2025-01-19-17-03-26-135_com android chrome](https://github.com/user-attachments/assets/6722aee5-6bc1-42a0-a371-6a43b24dda11)
