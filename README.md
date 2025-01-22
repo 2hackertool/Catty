@@ -16,7 +16,7 @@ chmod +x *
 ruby catty.rb
 ```
 
-installation termux
+<h2>installation termux<h2>
 
 ```
 apt update && sudo apt upgrade
