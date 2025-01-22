@@ -21,7 +21,7 @@ installation termux
 ```
 apt update && sudo apt upgrade
 pkg install git
- apt install ruby
+apt install ruby
 git clone https://github.com/2hackertool/Catty.git
 cd Catty
 chmod +x *
