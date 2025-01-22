@@ -38,6 +38,11 @@ ruby catty.rb
 
 ![Screenshot_2025-01-22_08-21-30](https://github.com/user-attachments/assets/2437ba69-e7a9-401e-b3ff-c55315781c6d)
 
+![Screenshot_2025-01-22-17-39-44-351_com termux](https://github.com/user-attachments/assets/f4aef0e1-11c5-4160-84e1-48bb84deae41)
+
+![Screenshot_2025-01-22-17-39-53-168_com termux](https://github.com/user-attachments/assets/1c6d2e6b-36eb-4500-9551-1fe6a07a6e09)
+
+
 ![Screenshot_2025-01-19-16-58-40-873_com android chrome](https://github.com/user-attachments/assets/971e46af-797f-4977-a0d0-d70e346a5b8b)
 
 ![Screenshot_2025-01-19-17-03-26-135_com android chrome](https://github.com/user-attachments/assets/6722aee5-6bc1-42a0-a371-6a43b24dda11)
