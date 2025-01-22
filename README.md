@@ -1,5 +1,3 @@
-<h1>Catty<h1>
- 
 warning : these viruses are harmful avoid installing them on your device ☢️⚠️
 
 this tool can give you virus apps for android and create virus app ☢️☣️
