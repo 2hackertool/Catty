@@ -19,7 +19,7 @@ ruby catty.rb
 installation termux
 
 ```
-apt update && sudo apt upgrade
+apt update && apt upgrade
 pkg install git
 apt install ruby
 git clone https://github.com/2hackertool/Catty.git
